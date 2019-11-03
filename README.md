@@ -11,6 +11,6 @@ Second step: \
 Run docker image \
 ``docker run -rm --name springgradle -p 8080:8080 springgradledocker `` \
  \
-Obs.: You can change everything if you will. \
+*You can change everything if you will. \
  \
 Enjoy it :D 
