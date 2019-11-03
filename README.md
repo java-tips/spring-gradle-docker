@@ -5,11 +5,11 @@ Is very easy for use that. Below I'll show you how you can build your applicatio
  \
 Fist step: \
 Build the docker image \
-``docker build -t springgradledocker . ``
-
+``docker build -t springgradledocker . `` \
+\
 Second step: \
 Run docker image \
-``docker run -rm --name springgradle -p 8080:8080 springgradledocker ``
+``docker run -rm --name springgradle -p 8080:8080 springgradledocker `` \
  \
 Obs.: You can change every name, if you will. \
  \
