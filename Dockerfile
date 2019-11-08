@@ -6,9 +6,6 @@ ADD settings.gradle .
  
 RUN gradle build
 
-RUN cd /home/gradle/build/libs && ls -l
-
- 
 FROM openjdk:12-jdk-alpine
  
 COPY --from=0 /home/gradle/build/libs/sringgradledocker-0.0.1-SNAPSHOT.jar springgradledocker.jar
