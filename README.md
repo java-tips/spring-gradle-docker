@@ -3,6 +3,7 @@
 This tip is for use gradle with spring-boot in docker. \
 It is very easy to use that. Below I'll show you how you can build your application. \
  \
+ \
 Fist step: \
 Build the docker image \
 ``docker build -t springgradledocker . `` \
