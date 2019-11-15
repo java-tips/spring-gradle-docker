@@ -1,4 +1,5 @@
 # spring-gradle-docker
+ [![CircleCI](https://circleci.com/gh/java-tips/spring-gradle-docker/tree/master.svg?style=svg)](https://circleci.com/gh/java-tips/spring-gradle-docker/tree/master)
  \
 This tip is for use gradle with spring-boot in docker. \
 It is very easy to use that. Below I'll show you how you can build your application. \
