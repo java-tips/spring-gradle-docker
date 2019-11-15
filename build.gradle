@@ -6,7 +6,7 @@ plugins {
 
 group = 'br.com.springgradledocker'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = JavaVersion.VERSION_12
+sourceCompatibility = JavaVersion.VERSION_11
 
 repositories {
 	mavenCentral()
