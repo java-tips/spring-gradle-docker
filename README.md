@@ -1,4 +1,5 @@
 # spring-gradle-docker
+ [![CircleCI](https://circleci.com/gh/java-tips/spring-gradle-docker/tree/master.svg?style=svg)](https://circleci.com/gh/java-tips/spring-gradle-docker/tree/master)
  \
  [![CircleCI](https://circleci.com/gh/java-tips/spring-gradle-docker.svg?style=svg)](https://circleci.com/gh/java-tips/spring-gradle-docker)
  \
